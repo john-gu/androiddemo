@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ThroneExample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="clear">Clear</string>
+    <string name="mat_advertiser_id">877</string>
+    <string name="mat_conversion_key">8c14d6bbe466b65211e781d62e301eec</string>
+
+</resources>

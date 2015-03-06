@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/john-gu/AndroidStudioProjects/ThroneExample/throneExample/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="/home/john-gu/AndroidStudioProjects/ThroneExample/throneExample/build/intermediates/pre-dexed/debug/classes-608ba2726aee983faa3c32acde9fcdea0c8d12d5.jar" />
+    </item>
+    <item
+        jar="/home/john-gu/AndroidStudioProjects/ThroneExample/throneExample/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/home/john-gu/AndroidStudioProjects/ThroneExample/throneExample/build/intermediates/pre-dexed/debug/classes-66d8e37229b498e6173fdd172b5253f4f828d5a6.jar" />
+    </item>
+    <item
+        jar="/home/john-gu/AndroidStudioProjects/ThroneExample/throneExample/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/home/john-gu/AndroidStudioProjects/ThroneExample/throneExample/build/intermediates/pre-dexed/debug/classes-0125eae668ef0fdfbb0232123dc244ccffb89fc5.jar" />
+    </item>
+    <item
+        jar="/home/john-gu/AndroidStudioProjects/ThroneExample/throneExample/libs/MobileAppTracker-4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="67151eaa48fc74e3150e49dbc068fea30f1b346b">
+        <dex dex="/home/john-gu/AndroidStudioProjects/ThroneExample/throneExample/build/intermediates/pre-dexed/debug/MobileAppTracker-4.0-f37fbe53d2a3bedd2aa1d197bcb68f54ad586cf8.jar" />
+    </item>
+    <item
+        jar="/home/john-gu/AndroidStudioProjects/ThroneExample/throneExample/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/home/john-gu/AndroidStudioProjects/ThroneExample/throneExample/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-c7892e5cc318d2f6818e9f2f46dc98c80925d397.jar" />
+    </item>
+    <item
+        jar="/home/john-gu/tools/android-sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/home/john-gu/AndroidStudioProjects/ThroneExample/throneExample/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-bf3c65a9b209f4da1f894993e09e1ad346657202.jar" />
+    </item>
+
+</items>
